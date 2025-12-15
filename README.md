@@ -1,7 +1,43 @@
-# FullStack Social Media App
+# Sociala   
+*A Full-Stack MERN Social Media Platform*
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+Sociala is a modern full-stack social media web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It enables users to securely register and log in, create and interact with posts, upload images, and explore a personalized social feed.
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+This project focuses on real-world full-stack development practices, secure authentication, and scalable architecture.
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+
+
+  # Features
+
+-  User Authentication (Register & Login using JWT)
+-  User Profiles
+-  Create, View & Delete Posts
+-  Image Upload Support
+-  Like / Unlike Posts
+-  Personalized Feed
+-  Secure APIs with JWT Middleware
+-  Fully Responsive UI
+-  MongoDB Atlas Integration
+
+
+
+##  Tech Stack
+
+### Frontend
+- React.js
+- Redux Toolkit
+- Material UI (MUI)
+- HTML5, CSS3, JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB (Atlas)
+- Mongoose
+- JWT (JSON Web Tokens)
+- Multer (File Uploads)
+- bcrypt (Password Hashing)
+
+
+
+
