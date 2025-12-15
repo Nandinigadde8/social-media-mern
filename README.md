@@ -42,7 +42,8 @@ This project focuses on real-world full-stack development practices, secure auth
 
 
 ###  Login Page
-![Login Page](https://github.com/user-attachments/assets/18ebcd7b-6eb3-4d32-bbd3-ef89b0ee55c2)
+![Login Page](<img width="1920" height="1008" alt="Screenshot 2025-12-15 144444" src="https://github.com/user-attachments/assets/5edf07c4-dbdc-44ad-a472-d74fda21986f" />
+)
 
 ###  Home / Feed Page
 ![Home Page](https://github.com/user-attachments/assets/f0bf8215-9190-45cf-b19a-6081194f197e)
