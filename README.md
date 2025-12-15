@@ -38,6 +38,16 @@ This project focuses on real-world full-stack development practices, secure auth
 - Multer (File Uploads)
 - bcrypt (Password Hashing)
 
+## Screenshots
+
+
+###  Login Page
+![Login Page](https://github.com/user-attachments/assets/18ebcd7b-6eb3-4d32-bbd3-ef89b0ee55c2)
+
+###  Home / Feed Page
+![Home Page](https://github.com/user-attachments/assets/f0bf8215-9190-45cf-b19a-6081194f197e)
+
+
 
 
 
